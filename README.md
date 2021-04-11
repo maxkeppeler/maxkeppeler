@@ -10,8 +10,8 @@ Usually I spend most of my free time to work my Android apps. I intend to open s
 
 <br />
 <p align = "start">
-  <img src = "https://github-readme-stats.vercel.app/api?username=maxkeppeler&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=maxkeppeler&hide=css,java,html&theme=radical">
+  <img src = "https://github-readme-stats.vercel.app/api?username=maxkeppeler">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=maxkeppeler">  
 </p>
 
 </details>
