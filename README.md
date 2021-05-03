@@ -1,4 +1,4 @@
-## Hey 👋 I am Max! 
+## Hey, Hallo, 你好 👋 
 
 I'm a passionate Android Developer from Frankfurt. 
 Alongside programming, I love photography and travelling!
