@@ -1,6 +1,7 @@
-## Hi there 👋 I am Max! 
+## Hey 👋 I am Max! 
 
-I'm a passionate Android Developer from Frankfurt. Alongside programming, I love photography and travelling!
+I'm a passionate Android Developer from Frankfurt. 
+Alongside programming, I love photography and travelling!
 
 - 🌐  ㅤVisit my [website](https://maxkeppeler.com/).
 - 🐦  ㅤMe on [Twitter](https://twitter.com/MaxKeppeler).
