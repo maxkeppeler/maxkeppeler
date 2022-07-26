@@ -6,6 +6,7 @@ Alongside programming, I love photography and travelling!
 - 🌐  ㅤVisit my [website](https://maxkeppeler.com/).
 - 🧍  ㅤMy life on [Instagram](https://www.instagram.com/maximilian.keppeler).
 - 📷  ㅤPhotography on [Instagram](https://www.instagram.com/max.keppeler).
+- Misc on [Twitter](https://twitter.com/max_keppeler)
 
 <br />
 <p align = "start">
