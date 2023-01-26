@@ -44,4 +44,3 @@ Alongside programming, I love photography & travelling!
 <br />
 
 <p align = "start"><img src = "https://github-readme-stats.vercel.app/api?username=maxkeppeler"></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maxkeppeler&label=Profile%20views&color=0e75b6&style=flat" alt="maxkeppeler" /> </p>
